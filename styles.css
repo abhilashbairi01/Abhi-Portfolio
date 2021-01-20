@@ -1,0 +1,121 @@
+body{
+    background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPDQ0NDQ0NDQ0NDQ0NDQ0NDQ8NDQ0NFREWFhURFRMYHSggGBolGxUTITEhJSkrLi4uFx8zODMtNygtLisBCgoKBQUFDgUFDisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIALIBHAMBIgACEQEDEQH/xAAZAAADAQEBAAAAAAAAAAAAAAAAAQIDBAf/xAAhEAEBAAICAgMBAQEAAAAAAAAAAQIRAxIxUSFBYROBcf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD0sAAAAAAAAA9ACVMac4wQbScaphAYnMb6baMGM46qcf60AImEVIej630CbhPSbxtLADG8ZdGw0DDrS036loGIal1gMwvoXQEhXSpsAAgAAPQEnJacgMA4AGj0AOQaOYtsMJ9gykOYtun4NAykPTQAiSq/nTbY3cBj/P8AT/nGui6gjpPR6PQAAABZuMq2hZY7/wCgy0cw20mGjBncB1aWIBNxiLjpqAYhWWHpIEiqySCbiTSQXjBEhgAlOSk5Ao8YS+MBMVAAcjVnxxoB45aXqVmcoHcE2NMcjBk04r9C4Jk1Qag9H1oJGldD6Az6lpvONU44DmxXI6Os9JuM9AyTcW3SF/P9BinKN7gm8dBgDyx0NAScsGmgDmuN2cxXlPmkAKnSBnlPlLTKfDME1OS8kZAppiziwXSUWgXhPhQkPX4BA+tHWgS8cvZdaOlBa+PFGGFdWOGgScxXoAmYqkAAAABBYIYICrEgABQRnUXGKAIuCbhWoBhlj7ZWadaOSSzwDloFgAMsp8tU5wGWSMmlZ5AvFcm04NcZoDhkAbYZfSmDfj+QByNJhFAzmHtcxMAePlrKzwWB6LRyqBAVYnQAAAcAgAJsUAQnOrrK0AC2QHstgAE5qZ5+QRniybs88QQAAZZRlk6M458vIN+PH4aJwy+FbAAADkbY/CcJpQNJVSpx8HoFBJ7Bph4UWPgwBykAWExQFYnTTQ0CIFWAE6PRptAsp9Mrg1AMeo6tLikEdR1WARpjW3Jl9MgIrFFaDGzRL5PpABz8k+W9rHky+QXhWjBtKB7Xx+UKgNgjHP2sF4LZ4eWgAAA0xvwraMPCgUEnsFQy2NgY2WxsFbKp2VA7SRdlsGgR2o7AsrE9h2ArCtV2Y8uXrwCbU7LYAbAAI5PpmvkY5UBlWWXlpWdBS+O/SDgNoosfZgDxy0QBtjk2ckrbHl+PANQz/p+D+n4DfjUww5PxrKB7IADPZQArZoALSm5n2AyuI2YICrE2AAEZ5fQFnl9RmABWJWLAQNjL4ZZZbAuW78M17FBnkiqzTQUAKC+KtJkwwvy2BUpoGwWeNRMlSg1EhY1pIAOXRAGuOamCsc9A2CZltWwCbStK0DCbnC/p+AsMryUrlfYN+xf0n4wANM+WTxtj/QuTx/rMGncu9SAV2pbIrQTnUqqQCbStICpGQKKmkDbSsV8eXxoGgTstgrZbJWMBeGVjScjIA37DtWMqpn7Bp2o7JlMD7UXmqagGv9P2jbIA2DKZVUzBYTMoYGAARyeP9ZtOTwyAwCyyAsskzIgB5ZItGaQMFsbAgZAqpOkAAAKmSpkgbBrjFsOx9gbDbHsOwNtjbLsOwNdqnIx7DYN7lKTI5kDQFMjAAC0Ae2d5J7Teb1AbzI5m5by38ibnfdB18mU15Zd57YEDa8sR3QYK7jugAdpAAZAAAAAMAAAAAAAAAAAAAAAAAANgAqVrxmAY8mV35qQAAAAAAAAAAAAAAAAAIGAIjAP/2Q==");
+  }
+  .name
+  {
+    margin-right:80px;
+    font-family: 'Trade Winds', cursive;
+    font-weight: bolder;
+  }
+  .nav-item
+  {
+    margin-right: 50px;
+    border:1px groove;
+    font-family: cursive;
+    font-weight: bolder;
+    cursor: pointer;
+  }
+.nav-link
+{
+  color:black;
+  font-family: 'Tangerine', cursive;
+  font-weight: bolder;
+  font-size: 20px;
+}
+h1{
+    font-family: 'Brush Script MT', cursive;
+  }
+.box
+{
+  border:solid;
+}
+.nav-item:hover
+{
+    background-color:white;
+    transform: scale(1.08); 
+}
+.test{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    padding: 0px 30px 0px 30px;
+    word-spacing: 3px;
+    border-radius: 15px;
+    border: groove;
+    border-color:white;
+    background-color: white;
+}
+h2{
+    font-family: 'Tangerine', cursive;
+}
+.aca
+{
+  border: double;
+  background-color: white;
+}
+.t1
+{
+  border:groove;
+  border-radius: 10%;
+  width:300px;
+  padding:10px;
+  margin-right: 10px;
+  background-color: white;
+  
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+
+}
+.carousel-item img{
+    
+    width:600px;
+    height:300px;
+}
+#carousel{
+   
+    width:600px;
+    height:300px;
+    background-color: white;
+    border: 1px groove;
+    text-align: center;
+
+}
+h3{
+    
+    color:white;
+    font-weight: bolder;
+    font-family: 'Tangerine', cursive; 
+   
+}
+.last
+{
+  font-family: fantasy;
+  font-size: 30px;
+}
+#containers
+{
+    text-align: center;
+}
+#display
+{
+    border:1px solid;
+    background-color:white;
+    font-family: 'Cinzel', serif;
+   
+
+}
+.form
+{
+  font-family: 'Cinzel', serif;
+   background-color: white;
+
+}
+#containers
+{
+  width: fit-content;
+  background-color: white;
+  text-align: center;
+  border-radius: 15px;
+}
